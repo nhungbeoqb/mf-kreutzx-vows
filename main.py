@@ -9,7 +9,7 @@ import os
 
 TEXT = (
     "I take you as my lawfully wedded backup, to have and to hold in sickness "
-    "and in low battery, till a power cut do us part \u2014 then I restore you "
+    "and in 1% battery, till a power cut do us part \u2014 then I restore you "
     "from last night."
 )
 
